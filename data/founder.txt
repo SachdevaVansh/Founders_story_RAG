@@ -1,0 +1,160 @@
+Zipline was founded in 2014 with the mission of creating the first logistics system that serves all humans equally. The San Francisco-based startup designs manufactures, and operates the world’s largest instant logistics and delivery system, 
+which is used by businesses, governments, and consumers.
+The company’s innovative approach to delivery is transforming the way goods move, from powering Rwanda’s national blood delivery 
+network to providing on-demand home delivery for e-commerce. Zipline uses autonomous, electric drones to provide a teleportation service that delivers what you need when you need it.
+
+The technology is complex, but the idea is simple – to provide equitable access to essential goods and decarbonize delivery by 
+transitioning to clean, electric, instant logistics.
+Zipline’s drones can fly to hard-to-reach areas, quickly and efficiently delivering medical supplies, vaccines, and other 
+essential goods to healthcare workers and patients in need. The company operates on three continents (North America, Africa, 
+and Asia) and in seven countries – Rwanda, Ghana, the United States, Nigeria, Japan, Kenya, and Côte D’Ivoire.
+Since its inception, Zipline has made more than 540,000 deliveries to real customers and currently completes one every 90 seconds.
+The company has flown 40 million autonomous commercial miles and delivered almost 5 million products, including more than 
+8 million vaccine doses.
+Zipline has two delivery platforms – a long-range system, Platform 1, and its next-generation home delivery system, Platform 2. 
+Behind each delivery is a complex network of airspace deconfliction tools, inventory management, fulfilment software, warehousing, performance management, cold chain storage, and more. The instant logistics system is a trusted partner for businesses, governments, and consumers and currently supports the medical, health, and retail sectors, delivering blood, vaccines, 
+COVID supplies, prescriptions, e-commerce items, products that support human and animal health, and food.
+Zipline’s innovative technology has received international recognition and numerous awards. The company has received significant funding from various investors, including Andreessen Horowitz, Sequoia Capital, and Temasek Holdings.
+Zipline’s partnerships are extensive, and the company works with Walmart, Pfizer, Toyota Tsusho, Sweetgreen, NGOs, and large health systems and national governments around the world.
+Overall, Zipline’s innovative technology has the potential to revolutionize the delivery of essential goods and improve access 
+to healthcare in areas where traditional transportation methods are limited or unavailable. The company continues to grow and 
+expand its operations to more locations around the world, helping to make a positive impact on the lives of people in need.
+
+Meet Supam Maheshwari, the visionary behind FirstCry ($4 billion), XpressBees ($1.2 billion), and GlobalBees ($1.12 billion).
+
+Starting his journey fresh out of IIM Ahmedabad, Supam launched Brainvisa Technologies in 2000. This e-learning platform catered to over 500,000 students, laying the groundwork for his future billion-dollar ventures.
+Which also led to long-lasting bonds with his co-founders, Nitin Agarwal and Amitava Saha.
+In 2010, Supam identified a gap in the Indian baby product market, giving rise to FirstCry. The hybrid retail model, blending online shopping with 400+ physical stores, thrived with innovative strategies like hospital 
+sampling and private labels like BabyHug.
+Undeterred, Supam addressed logistics challenges in 2015, founding XpressBees. Today, it’s a logistics giant with operations in 3,000+ cities, handling 3 million deliveries daily for clients like PayTM and Xiaomi.
+In 2021, GlobalBees emerged, co-founded by Supam and Nitin, swiftly achieving unicorn status by acquiring and scaling niche e-commerce brands.
+
+Worth Reading: SurveyMonkey’s Journey: From Zero to $3 Billion
+Supam’s journey unveils key insights:
+Identify overlooked consumer needs and gaps in the market.
+Adopt fiscal prudence for lean yet high-growth models.
+Innovate ahead of the curve.
+Partner with reliable co-founders for the long term.
+Based in Pune, Supam defies the notion that startups must thrive in traditional hubs. His story epitomizes how innovation and strategic execution can yield extraordinary success, making disruption seem effortless.
+
+In a time when plastic pollution is one of the most pressing threats to our environment, few have dared to bridge advanced blockchain technology with grassroots activism as boldly as Eric Schaffner. With a career spanning global leadership roles in packaging innovation and sustainability, Eric transitioned from the corporate world into a mission-driven role: the creation of ZeLoop. Launched with the vision of rewarding eco-friendly behavior through blockchain-based incentives, ZeLoop empowers individuals to make a difference—one plastic bottle at a time.
+
+ZeLoop is more than an app; it’s a movement. The platform gamifies waste collection, offers crypto-based Eco Reward Tokens (ERW), and inspires a global community of “ZeLoopians” to clean their environment while being transparently rewarded for it. Through features like plogging (clean walking), eco-missions, leaderboards, and a soon-to-expand Plastic Credit program, ZeLoop blends behavioral science, blockchain transparency, and environmental advocacy into a seamless, user-friendly ecosystem.
+
+In this exclusive interview, we speak with Eric Schaffner to explore the personal inspirations, strategic pivots, and bold innovations that shaped ZeLoop into what it is today.
+
+TFS: Eric, thank you so much for joining us today. It’s truly inspiring to witness how ZeLoop is tackling plastic pollution with such a futuristic and inclusive approach. To kick things off, let’s start from the beginning.
+
+Eric Schaffner: Thank you! It’s a pleasure to be here and share more about our journey. ZeLoop was born out of a deep desire to reconnect individual actions with global impact. The problem of plastic pollution is massive, but we believe that empowering individuals at the grassroots level can create a ripple effect of meaningful change.
+
+TFS: What personal experience or moment of clarity inspired you to merge blockchain technology with grassroots waste-collection efforts?
+
+Eric: The defining moment came when I realized how fragmented the waste-collection ecosystem truly was. While individuals were making efforts to recycle, there was often no feedback loop—no way to measure or reward their contributions. It felt like a thankless task for many.
+
+My background in the packaging industry had shown me the potential for technology to transform systems, but I also understood that innovation needed to be relatable to the everyday person. That’s when blockchain entered the picture. Its ability to offer immutable records and decentralized incentives was the missing link. By integrating blockchain, we could ensure transparency, build trust, and offer traceable rewards that people could rely on.
+
+So, rather than recycling being a silent effort, it became something that could be acknowledged, rewarded, and tracked on a public ledger. This fusion of grassroots action with advanced tech was the ‘aha’ moment that launched ZeLoop.
+
+TFS: How do you balance cutting-edge blockchain architecture with the simple, human act of picking up litter?
+
+Eric: That balance is at the very core of our design philosophy. We made a deliberate choice to abstract away the complexity of blockchain. Our users don’t need to understand smart contracts or tokenomics. Instead, they experience a seamless, gamified app that rewards them for eco-actions.
+
+Blockchain operates behind the scenes, managing transactions, ensuring fairness, and securing data. This invisible architecture guarantees that actions like recycling a bottle or completing an eco-mission are transparently recorded and rewarded.
+
+The human experience remains front and center—whether it’s the satisfaction of logging an action, seeing your progress on a leaderboard, or unlocking a reward. The tech elevates the experience without interfering with it.
+
+In a world where fashion often overlooks functionality, Veena Ashiya, the passionate founder of Monrow, is rewriting the rules – one step at a time. After an international stint with Versace in New York, Veena returned to India with a clear entrepreneurial vision: to build a startup that solved a real, daily discomfort that women had silently endured for far too long, choosing between fashion and foot comfort.
+
+With Monrow, a direct-to-consumer footwear brand tailored for Indian women, she didn’t just create a product; she started a movement. Monrow blends style with scientifically-backed design to fit Indian feet, climates and lifestyles. Built on empathy, innovation and sustainability, Monrow’s journey is a masterclass in intentional entrepreneurship, where storytelling, design and user experience intersect.
+
+We sat down with Veena Ashiya for an in-depth founder’s interview to dive deep into her inspiring story, product innovation, challenges and Monrow’s mission to redefine comfort – inside out.
+
+TFS: Hello Veena! It’s such a pleasure to have you with us today. Monrow has been on our radar for how it’s beautifully merging style and science for Indian women. Let’s start from the beginning.
+
+Veena Ashiya: Thank you so much! I’m thrilled to be here and to talk about this journey that’s so close to my heart. Monrow isn’t just a brand to me, it’s an expression of a real problem many of us women face, every single day. I’m glad we get to explore that story today.
+
+TFS: Monrow was beta-tested from 2017 to 2019 before its official launch. What made you take the slower, more deliberate route and what did you learn during that phase?
+
+Veena Ashiya: When I left Versace in New York and returned to India, I knew I wasn’t interested in launching a startup that only looked good on paper. I wanted to create something that truly mattered. The inspiration for Monrow came from my own experience and the stories of countless women I observed constantly switching between pretty shoes that hurt and comfy backups that looked dull.
+
+This dilemma sparked a question in my mind: why must comfort and fashion be mutually exclusive for women? I took the slower route, beta testing Monrow from 2017 to 2019, because I wanted to listen first. I wanted to hear from real women and understand their daily footwear frustrations. These two years felt like product therapy: we tested, failed, retested, redesigned and refined over and over again.
+
+It wasn’t linear. It wasn’t glamorous. But it was authentic. That phase taught me that true innovation is slow, thoughtful and deeply empathetic. It gave Monrow a soul rooted in listening and evolving.
+
+TFS: Your brand promise, “Fashion + Comfort = Monrow,” is bold and memorable. What are the real challenges in delivering both – especially for Indian feet and climates?
+
+Veena Ashiya: Fashion moves fast. Trends evolve overnight. Comfort, on the other hand, demands thought, testing and precision. Bringing both together in a single product line is no easy task, especially in India where our foot anatomy, terrain and climate differ from global standards.
+
+Indian feet are broader, particularly at the forefoot. Our weather is humid, our roads uneven and our seasons unpredictable. These conditions make shoe design incredibly complex. So we had to rethink everything, right from the last shapes to fabrics and foam density.
+
+We’ve engineered our products specifically for Indian realities. Every design challenge comes down to one central question: how do we make something she wants to flaunt yet forget she’s even wearing it after hours of walking? That’s where our obsession lies, not just in how the shoe looks, but how it makes her feel.
+
+TFS: Monrow is designed by technical experts for Indian feet. Could you share insights into the R&D behind your products and how Indian foot anatomy influences your design decisions?
+
+Veena Ashiya: Absolutely. Our product development is deeply rooted in research. We didn’t assume, we measured. We mapped over 3,000 Indian women’s feet across regions, age groups and lifestyles. The consistent insight – Indian feet are broader, especially in the toe box.
+
+In today’s fast-paced world, where families juggle work, parenting and personal growth, having structured, compassionate domestic support can change everything. At the heart of this transformation is an inspiring entrepreneur, Victoria Markova – the Founder and visionary behind Vicekeeper, a luxury household management and staffing startup dedicated to redefining what home support should look like. With its roots deeply embedded in European standards and a bold mission to uplift both families and professionals, Vicekeeper is not just a staffing agency, it is a platform for peace, trust and sustainable care.
+
+Victoria’s story is one of cross-cultural experience, motherhood and a relentless pursuit of excellence. With her background in international business and her lived experience as a mother and entrepreneur in various countries, she understood the challenge of finding high-quality, trustworthy and aligned domestic help. This personal and professional insight became the foundation of Vicekeeper, a service crafted with empathy, technology and purpose.
+
+Let’s dive into a conversation with Victoria Markova as she shares the story behind Vicekeeper, her startup philosophy and the values driving this innovative company forward.
+
+TFS: Victoria, it’s such a pleasure to have you here with us today. Thank you for joining this conversation and bringing us into the world of Vicekeeper.
+
+Victoria Markova: Thank you so much! I’m excited to be here and to share the story of how Vicekeeper came to life. It’s always meaningful to reflect on the mission behind the work and connect with others who care about building intentional and purpose-driven businesses.
+
+TFS: What inspired you to create Vicekeeper and how did your personal journey as a mother influence its founding principles?
+
+Victoria Markova: The inspiration for Vicekeeper came from my own life. As a mother raising a family while living abroad and growing a business, I encountered the immense challenge of finding reliable, professional and emotionally intelligent domestic support. It wasn’t just about hiring help, it was about creating a trusted ecosystem that supported our family’s lifestyle, values and well-being.
+
+Living in different countries, I realized how fragmented and inconsistent the home staffing services were. Some agencies focused only on basic tasks. Few looked at compatibility, communication or the emotional impact on the family. This gap made me think: why isn’t there a service that provides household support with the same level of care, professionalism and structure that we expect in other industries?
+
+Vicekeeper was born from that exact thought. As a mother, I wanted to build a system that made life easier and freer for families. As an entrepreneur, I wanted to offer a smarter, more human-centric approach to domestic staffing. The founding principles – trust, integrity, transformation, were shaped directly by my personal journey.
+
+TFS: How do you define “transformative care,” and why is it at the core of Vicekeeper’s philosophy?
+
+Victoria Markova: Transformative care is the heart of Vicekeeper’s mission. To us, it means care that goes beyond the basics, beyond cleaning or babysitting. It’s about creating harmony, bringing structure to chaos and supporting the emotional and psychological well-being of everyone in the household.
+
+Our approach elevates home life by addressing both physical tasks and emotional presence. Imagine a caregiver who not only prepares meals but understands a child’s developmental needs. Or a housekeeper who not only tidies up but brings calm and confidence into the family’s daily rhythm. That’s transformative care.
+
+This philosophy guides every service we offer. We aim to improve the emotional fabric of home life, to help parents feel supported, children feel nurtured and the household run smoothly. It’s what sets us apart. We don’t just offer help. We offer a change in how families experience daily life.
+
+TFS: Vicekeeper offers both live-in and live-out service plans. What drives your decision-making when customizing solutions for each household?
+
+Victoria Markova: Our process begins with listening. Every family has a unique rhythm, set of priorities and emotional dynamics. Some need a live-in caregiver due to demanding work hours. Others prefer a live-out option to maintain privacy. We take all of this into account.
+
+We assess the household’s routine, lifestyle compatibility and long-term needs. For example, if a child is entering school soon or a parent is transitioning back to work, we customize the care model to evolve with those changes. We ask questions like: What is the emotional temperament of the child? Does the family travel frequently? What level of discretion or formality is preferred?
+
+Whether live-in or live-out, the goal is to create a seamless experience that enhances, not disrupts, the household’s natural flow. This kind of customization is why families choose us and stay with us.
+
+
+Making an Impact
+Helping Millions of Students Succeed
+Sudhanshu's commitment to affordable education wasn't just a business strategy—it was his life's mission. Over the years, iNeuron has helped over 1.5 million students from 34+ countries, providing them with the skills they need to succeed in today's competitive job market. Many of these students, like Sudhanshu himself, came from disadvantaged backgrounds. They saw iNeuron as a lifeline—an opportunity to rise above their circumstances.
+
+In 2022, iNeuron was acquired by PhysicsWallah in a deal worth ₹250 crore. While this acquisition was a significant milestone, Sudhanshu remained focused on his mission. Even after the acquisition, iNeuron continued to offer some of the most affordable and accessible tech courses in the world.
+
+The Entrepreneur and Teacher: Sudhanshu's Dual Legacy
+Sudhanshu's journey isn't just one of entrepreneurial success; it's also a story of dedication to teaching. Throughout his career, he has remained a passionate educator, constantly looking for ways to empower others through knowledge. Whether teaching courses in Big Data, Data Science, or programming, Sudhanshu has always sought to make complex subjects accessible to learners at all levels.
+
+His commitment to affordable education has earned him the respect and admiration of countless students. Many credit Sudhanshu with changing their lives, helping them secure jobs, improve their skills, and break free from the limitations of their backgrounds.
+
+In a digital landscape overflowing with noise, few creatives manage to cut through with clarity and purpose. One such voice is Zan Hussain—a former radio presenter turned strategic storyteller, whose work has redefined how brands communicate trust and authority. As the founder of Flat Earth Media, Zan leads a Dubai-based agency that’s become synonymous with credibility-driven storytelling, especially in the B2B and healthcare sectors.
+
+Flat Earth Media isn’t your typical creative agency. With a sharp focus on emotional resonance and brand impact, the team has worked with over 150 brands, crafting content that doesn’t just perform—it connects. Whether it’s a short brand film, a podcast series, or a full-scale media strategy, their work is grounded in a single, powerful idea: stories should reflect who you are, not just what you sell.
+
+At the core of this mission is Zan’s unwavering commitment to clarity, honesty, and human connection—values that have guided both his creative direction and business growth.
+
+We had the opportunity to sit down with Zan for a candid, wide-ranging conversation about his journey, the evolution of Flat Earth Media and the insights he’s gathered while helping businesses find their voice in a crowded world.
+
+TFS: Zan, it’s such a pleasure to have you with us today. Your work at Flat Earth Media has really set a standard for what intentional storytelling can look like in the business world. Let’s dive in—what inspired you to start Flat Earth Media and how has the vision evolved over time?
+
+Zan Hussain: Thank you, it’s great to be here. The truth is, Flat Earth Media started out of sheer frustration—creative frustration, to be precise. I kept seeing incredible companies doing important work, especially in B2B and healthcare, being represented with bland, cookie-cutter messaging. Their core values and stories were powerful, but the way they were being communicated didn’t do justice to the impact they were making. I couldn’t just sit and watch that happen—I felt compelled to step in.
+
+The name “Flat Earth” is a metaphor, not a statement. It represents a challenge to the status quo. It’s about asking bold questions and refusing to accept default narratives. From the beginning, we set out to be the opposite of a traditional agency—we didn’t want to chase trends or inflate egos. We wanted to tell the truth, powerfully and simply.
+
+Over time, we stripped away everything that didn’t serve that mission. We stopped being generalists. Today, our sole focus is helping businesses grow through credibility. In a marketplace flooded with hype and noise, trust is everything. We create media that builds that trust—consistently, honestly, and with emotional depth.
+
+TFS: With over 150 brands under your belt, I’m sure you’ve had your fair share of complex projects. Which one stands out as the most challenging yet rewarding?
+
+Zan Hussain: Definitely one project that stands out was with one of the UAE’s largest and most respected healthcare groups. We were commissioned to create a documentary-style film that captured the essence of their decades-long journey—not just the milestones, but the heartbeat behind their mission.
