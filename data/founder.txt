@@ -1,3 +1,4 @@
+Zipline:
 Zipline was founded in 2014 with the mission of creating the first logistics system that serves all humans equally. The San Francisco-based startup designs manufactures, and operates the world’s largest instant logistics and delivery system, 
 which is used by businesses, governments, and consumers.
 The company’s innovative approach to delivery is transforming the way goods move, from powering Rwanda’s national blood delivery 
@@ -20,8 +21,8 @@ Overall, Zipline’s innovative technology has the potential to revolutionize th
 to healthcare in areas where traditional transportation methods are limited or unavailable. The company continues to grow and 
 expand its operations to more locations around the world, helping to make a positive impact on the lives of people in need.
 
+Firstcry:
 Meet Supam Maheshwari, the visionary behind FirstCry ($4 billion), XpressBees ($1.2 billion), and GlobalBees ($1.12 billion).
-
 Starting his journey fresh out of IIM Ahmedabad, Supam launched Brainvisa Technologies in 2000. This e-learning platform catered to over 500,000 students, laying the groundwork for his future billion-dollar ventures.
 Which also led to long-lasting bonds with his co-founders, Nitin Agarwal and Amitava Saha.
 In 2010, Supam identified a gap in the Indian baby product market, giving rise to FirstCry. The hybrid retail model, blending online shopping with 400+ physical stores, thrived with innovative strategies like hospital 
@@ -29,6 +30,7 @@ sampling and private labels like BabyHug.
 Undeterred, Supam addressed logistics challenges in 2015, founding XpressBees. Today, it’s a logistics giant with operations in 3,000+ cities, handling 3 million deliveries daily for clients like PayTM and Xiaomi.
 In 2021, GlobalBees emerged, co-founded by Supam and Nitin, swiftly achieving unicorn status by acquiring and scaling niche e-commerce brands.
 
+SurveyMonkey:
 Worth Reading: SurveyMonkey’s Journey: From Zero to $3 Billion
 Supam’s journey unveils key insights:
 Identify overlooked consumer needs and gaps in the market.
@@ -37,6 +39,7 @@ Innovate ahead of the curve.
 Partner with reliable co-founders for the long term.
 Based in Pune, Supam defies the notion that startups must thrive in traditional hubs. His story epitomizes how innovation and strategic execution can yield extraordinary success, making disruption seem effortless.
 
+Zeloop:
 In a time when plastic pollution is one of the most pressing threats to our environment, few have dared to bridge advanced blockchain technology with grassroots activism as boldly as Eric Schaffner. With a career spanning global leadership roles in packaging innovation and sustainability, Eric transitioned from the corporate world into a mission-driven role: the creation of ZeLoop. Launched with the vision of rewarding eco-friendly behavior through blockchain-based incentives, ZeLoop empowers individuals to make a difference—one plastic bottle at a time.
 
 ZeLoop is more than an app; it’s a movement. The platform gamifies waste collection, offers crypto-based Eco Reward Tokens (ERW), and inspires a global community of “ZeLoopians” to clean their environment while being transparently rewarded for it. Through features like plogging (clean walking), eco-missions, leaderboards, and a soon-to-expand Plastic Credit program, ZeLoop blends behavioral science, blockchain transparency, and environmental advocacy into a seamless, user-friendly ecosystem.
@@ -63,6 +66,7 @@ Blockchain operates behind the scenes, managing transactions, ensuring fairness,
 
 The human experience remains front and center—whether it’s the satisfaction of logging an action, seeing your progress on a leaderboard, or unlocking a reward. The tech elevates the experience without interfering with it.
 
+Monrow:
 In a world where fashion often overlooks functionality, Veena Ashiya, the passionate founder of Monrow, is rewriting the rules – one step at a time. After an international stint with Versace in New York, Veena returned to India with a clear entrepreneurial vision: to build a startup that solved a real, daily discomfort that women had silently endured for far too long, choosing between fashion and foot comfort.
 
 With Monrow, a direct-to-consumer footwear brand tailored for Indian women, she didn’t just create a product; she started a movement. Monrow blends style with scientifically-backed design to fit Indian feet, climates and lifestyles. Built on empathy, innovation and sustainability, Monrow’s journey is a masterclass in intentional entrepreneurship, where storytelling, design and user experience intersect.
@@ -93,6 +97,7 @@ TFS: Monrow is designed by technical experts for Indian feet. Could you share in
 
 Veena Ashiya: Absolutely. Our product development is deeply rooted in research. We didn’t assume, we measured. We mapped over 3,000 Indian women’s feet across regions, age groups and lifestyles. The consistent insight – Indian feet are broader, especially in the toe box.
 
+Vice-keeper:
 In today’s fast-paced world, where families juggle work, parenting and personal growth, having structured, compassionate domestic support can change everything. At the heart of this transformation is an inspiring entrepreneur, Victoria Markova – the Founder and visionary behind Vicekeeper, a luxury household management and staffing startup dedicated to redefining what home support should look like. With its roots deeply embedded in European standards and a bold mission to uplift both families and professionals, Vicekeeper is not just a staffing agency, it is a platform for peace, trust and sustainable care.
 
 Victoria’s story is one of cross-cultural experience, motherhood and a relentless pursuit of excellence. With her background in international business and her lived experience as a mother and entrepreneur in various countries, she understood the challenge of finding high-quality, trustworthy and aligned domestic help. This personal and professional insight became the foundation of Vicekeeper, a service crafted with empathy, technology and purpose.
@@ -128,6 +133,8 @@ We assess the household’s routine, lifestyle compatibility and long-term needs
 Whether live-in or live-out, the goal is to create a seamless experience that enhances, not disrupts, the household’s natural flow. This kind of customization is why families choose us and stay with us.
 
 
+Euron and Ineuron:
+
 Making an Impact
 Helping Millions of Students Succeed
 Sudhanshu's commitment to affordable education wasn't just a business strategy—it was his life's mission. Over the years, iNeuron has helped over 1.5 million students from 34+ countries, providing them with the skills they need to succeed in today's competitive job market. Many of these students, like Sudhanshu himself, came from disadvantaged backgrounds. They saw iNeuron as a lifeline—an opportunity to rise above their circumstances.
@@ -139,6 +146,8 @@ Sudhanshu's journey isn't just one of entrepreneurial success; it's also a story
 
 His commitment to affordable education has earned him the respect and admiration of countless students. Many credit Sudhanshu with changing their lives, helping them secure jobs, improve their skills, and break free from the limitations of their backgrounds.
 
+
+Flat Earth Media:
 In a digital landscape overflowing with noise, few creatives manage to cut through with clarity and purpose. One such voice is Zan Hussain—a former radio presenter turned strategic storyteller, whose work has redefined how brands communicate trust and authority. As the founder of Flat Earth Media, Zan leads a Dubai-based agency that’s become synonymous with credibility-driven storytelling, especially in the B2B and healthcare sectors.
 
 Flat Earth Media isn’t your typical creative agency. With a sharp focus on emotional resonance and brand impact, the team has worked with over 150 brands, crafting content that doesn’t just perform—it connects. Whether it’s a short brand film, a podcast series, or a full-scale media strategy, their work is grounded in a single, powerful idea: stories should reflect who you are, not just what you sell.
