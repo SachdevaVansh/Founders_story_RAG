@@ -3,3 +3,7 @@ requests
 numpy 
 faiss-cpu
 python-dotenv
+wikipedia
+langchain_community
+langchain_core
+euriai
